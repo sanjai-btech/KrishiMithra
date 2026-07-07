@@ -123,8 +123,51 @@ Live Website:
 
 # 📸 Screenshots
 
-> Add screenshots of the dashboard, AI assistant, weather module, and crop recommendation pages here.
+## 🏠 Home Page
 
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home Page" width="900">
+</p>
+
+---
+
+## 🤖 AI Farming Assistant
+
+<p align="center">
+  <img src="./screenshots/chatbot.png" alt="AI Farming Assistant" width="900">
+</p>
+
+---
+
+## 🌤 Weather Forecast
+
+<p align="center">
+  <img src="./screenshots/weather_prediction1.png" alt="Weather Forecast" width="900">
+</p>
+
+---
+
+## 🌾 Crop Calendar
+
+<p align="center">
+  <img src="./screenshots/crop calender.png" alt="Crop Calendar" width="900">
+</p>
+
+---
+
+## 🐛 Pest Detection
+
+<p align="center">
+  <img src="./screenshots/pest_detector.png" alt="Pest Detection" width="900">
+</p>
+
+---
+
+## 🏛 Government Schemes
+
+<p align="center">
+  <img src="./screenshots/available_govt_schemes.png" alt="Government Schemes" width="900">
+</p>
 ---
 
 # 🎯 Future Improvements
