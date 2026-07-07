@@ -1,73 +1,188 @@
-# Welcome to your Lovable project
+# 🌾 KrishiMithra – AI Powered Smart Farming Assistant
 
-## Project info
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-blue?logo=react">
+  <img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript">
+  <img src="https://img.shields.io/badge/Vite-5-purple?logo=vite">
+  <img src="https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss">
+  <img src="https://img.shields.io/badge/Status-Live-success">
+</p>
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Live Demo
 
-## How can I edit this code?
+🔗 **https://krishi-mithra-ruddy.vercel.app/**
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+# 📖 About
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+**KrishiMithra** is an AI-powered smart farming platform designed to assist farmers with modern agricultural practices. It provides an intuitive interface for accessing farming insights, crop management resources, and intelligent assistance through AI.
 
-Changes made via Lovable will be committed automatically to this repo.
+The project focuses on making agriculture smarter by combining modern web technologies with AI-driven features in a clean and responsive user experience.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🌾 Modern Agriculture Dashboard
+- 🤖 AI Farming Assistant
+- 🌤 Weather Information
+- 🌱 Crop Recommendations
+- 🐛 Pest Awareness
+- 📊 User-Friendly Dashboard
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance with Vite
+- 🎨 Beautiful UI using Tailwind CSS & shadcn/ui
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 🛠 Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Frontend
 
-# Step 3: Install the necessary dependencies.
-npm i
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- React Router
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Development Tools
+
+- VS Code
+- Git
+- GitHub
+- Vercel
+
+---
+
+# 📂 Project Structure
+
+```text
+KrishiMithra/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── lib/
+│   ├── assets/
+│   └── App.tsx
+│
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+# ⚙ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/sanjai-btech/KrishiMithra.git
+```
+
+Move into the project
+
+```bash
+cd KrishiMithra
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Build production
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# 🌐 Deployment
 
-## What technologies are used for this project?
+The application is deployed on **Vercel**.
 
-This project is built with:
+Live Website:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**https://krishi-mithra-ruddy.vercel.app/**
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+# 📸 Screenshots
 
-## Can I connect a custom domain to my Lovable project?
+> Add screenshots of the dashboard, AI assistant, weather module, and crop recommendation pages here.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+# 🎯 Future Improvements
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- AI Chatbot Integration
+- Real-time Weather API
+- Disease Detection using AI
+- Voice Assistant
+- Farmer Authentication
+- Crop Price Prediction
+- Multilingual Support
+- IoT Sensor Integration
+
+---
+
+# 👨‍💻 Developer
+
+**Sanjai V**
+
+B.Tech Information Technology
+
+Sri Manakula Vinayagar Engineering College
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is developed for educational and research purposes.
